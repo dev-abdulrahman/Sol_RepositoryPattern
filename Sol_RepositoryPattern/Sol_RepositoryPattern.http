@@ -1,0 +1,6 @@
+@Sol_RepositoryPattern_HostAddress = http://localhost:5257
+
+GET {{Sol_RepositoryPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
